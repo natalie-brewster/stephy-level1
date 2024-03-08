@@ -1,13 +1,14 @@
 body {
-    font-family: 'Your Font Here', sans-serif;
-    background-color: #f0f0f0;
+    font-family: 'Lato', sans-serif; /* Font Family: Lato */
+    background-color: #f0f6f9; /* Soft blue-grey background */
     margin: 0;
     padding: 0;
+    color: #333; /* Dark grey text color */
 }
 
 header {
-    background-color: #333;
-    color: #fff;
+    background-color: #4a90e2; /* Rich blue header */
+    color: #fff; /* White text color */
     padding: 20px;
     text-align: center;
 }
@@ -17,12 +18,12 @@ main {
 }
 
 section {
-    margin-bottom: 20px;
+    margin-bottom: 30px; /* Slightly increased margin */
 }
 
 footer {
-    background-color: #333;
+    background-color: black; /* Same blue as header */
     color: #fff;
-    padding: 10px;
+    padding: 5px; /* Increased padding for better spacing */
     text-align: center;
 }
